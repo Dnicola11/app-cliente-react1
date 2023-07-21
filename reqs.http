@@ -1,0 +1,4 @@
+@server= https://dnicola11-humble-space-meme-rj59gr6554xcpxx4-8080.preview.app.github.dev
+###
+GET {{server}}/api/employees
+###
