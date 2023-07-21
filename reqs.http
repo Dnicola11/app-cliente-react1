@@ -2,3 +2,7 @@
 ###
 GET {{server}}/api/employees
 ###
+POST {{server}}/api/employees
+Content-Type: application/json
+
+{"first-name": "Mi", "lastName": "Aplicacion", "description": "React"}
